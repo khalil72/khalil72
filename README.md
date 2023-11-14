@@ -45,7 +45,7 @@ I'm a Front-End Developer skilled in HTML, CSS, Bootstrap, React.js, and Next.js
 - Angular CRUD Operation
 - YouTube Clone
 
-###Get in Touch
+## Get in Touch
 As a front-end developer, I welcome any questions, collaboration proposals, or job opportunities. Feel free to reach out to me on LinkedIn. I am actively seeking remote roles and am enthusiastic about taking on new challenges in the field.
 
 
