@@ -1,53 +1,59 @@
+Here's an updated README with your projects, portfolio links, and the **Quran Noor** landing page:
+
+---
+
 # Hi there! 👋 I'm Khalil Ahmed
 
-- 🌱 I'm passionate about software development.
-- 👯 I'm looking to collaborate on front-end libraries and projects.
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/khalilahmed-frontend). and [GitLab Profile](https://gitlab.com/khalilahmed.property051)
-- ⚡ Currently employed as a Front-End Developer at Tectone, actively seeking remote opportunities in front-end development.
+🌱 **Passionate Front-End Developer** | Specializing in responsive, user-focused applications with modern web technologies.  
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/khalilahmed-frontend) | 
+⚡ **Currently**: Front-End Developer at Tectone | Open to remote opportunities in front-end development.
 
-## About Me
+---
 
-I'm a Front-End Developer skilled in HTML, CSS, Bootstrap, React.js, and Next.js. I enjoy creating visually appealing and responsive web interfaces, recently branching into Angular.js. Let's connect to explore the exciting possibilities in technology and user-centric design!
+## 🚀 About Me
 
-## Skills
+With expertise in **HTML, CSS, Bootstrap, Tailwind CSS, MUI, React.js, and Next.js**, I design seamless, responsive web applications that balance visual appeal with high functionality. Currently, I’m delivering impactful projects like **Property051**, **LMS**, and **Quran Noor** at **smartTectone** and **Pin92**, enhancing user experience while achieving business goals.
 
-- Angular.js
-- React.js
-- Next.js
-- Bootstrap5 / Mui
-- Tailwind CSS
-- Restful API
-- GitHub
-- TypeScript
+### 🔍 Open to Remote Opportunities  
+I’m seeking remote positions to apply my front-end expertise and collaborate on projects that prioritize clean code, advanced tech, and outstanding user experiences.
 
-## Projects
- Property051, LMS, KSAVision2023
- 
-- Developed visually appealing user interfaces for Property051 and LMS using HTML5, CSS, and Bootstrap, ensuring engaging digital experiences.
-- Integrated front-end designs seamlessly with Laravel backend for efficient data management and optimal user interactions.
-- Collaborated cross-functionally to achieve responsive designs and seamless user experiences across platforms.
+---
+
+## 💼 Key Skills
+
+- **Front-End Technologies**: React.js, Next.js, Tailwind CSS, MUI, Bootstrap
+- **Backend**: Express.js, RESTful API
+- **Languages**: TypeScript, JavaScript
+- **Version Control**: Git, GitHub
+- **Tools**: Redux Toolkit, API integration
+
+---
+
+## 💻 Projects
+
+### Property051 & LMS
+- Developed responsive UIs with **Bootstrap** and **CSS3**.
+- Integrated Laravel backend for efficient data management and seamless user interactions.
 
 ### Bahria Housing
+- Built with **React JS** and **Redux Toolkit** for state management.
+- API integration for real-time data, with responsive layouts using **MUI**.
 
-- Developed projects in Bahria Housing using React JS, implementing Redux Toolkit for state management and seamless user interactions.
-- Integrated APIs for dynamic data retrieval, ensuring real-time updates and efficient data handling.
-- Designed the front-end interfaces using MUI, focusing on user-friendly layouts and intuitive navigation.
+### Quran Noor
+- Created a user-centric landing page with **React.js**, integrating APIs for enhanced functionality and seamless user experience.
+- Check out the project: [Quran Noor](https://qurannoor.vercel.app/)
 
-### Custom Webdesign
+### Custom Web Design
+- Built unique projects like a **YouTube Clone** and an **E-commerce Platform** with **Tailwind CSS** for customized, visually engaging interfaces.
+- Developed a **Weather App** using APIs to display real-time weather information.
 
-- Created custom designs for projects like YouTube clones and e-commerce platforms using Tailwind CSS, ensuring unique and visually appealing interfaces.
-- Developed a weather app utilizing weather APIs, demonstrating expertise in data fetching and integration for real-time weather information.
+### Landing Pages Portfolio
+- Explore additional landing page designs and custom projects on my portfolio: [Portfolio Website](https://khalil-ahmed-front-end-developer.vercel.app/)
 
-### Other Projects
+---
 
-- Pin92
-- Weather App
-- Angular CRUD Operation
-- YouTube Clone
+## 📈 Let's Collaborate
 
-## Get in Touch
-As a front-end developer, I welcome any questions, collaboration proposals, or job opportunities. Feel free to reach out to me on LinkedIn. I am actively seeking remote roles and am enthusiastic about taking on new challenges in the field.
-
-
+I’m open to questions, collaborations, or job opportunities. Feel free to connect with me on LinkedIn! I’m enthusiastic about tackling new challenges and contributing to exciting projects.
 
 
