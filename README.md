@@ -1,7 +1,3 @@
-Here's an updated README with your projects, portfolio links, and the **Quran Noor** landing page:
-
----
-
 # Hi there! 👋 I'm Khalil Ahmed
 
 🌱 **Passionate Front-End Developer** | Specializing in responsive, user-focused applications with modern web technologies.  
