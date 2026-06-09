@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khalil Ahmed
+👋 Hi, I'm Khalil Ahmed
 
 Front-End Developer | React.js | Next.js | TypeScript
 
@@ -50,6 +50,10 @@ Frontend
 
 React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Material UI
 
+State Management
+
+Redux Toolkit • Zustand • Context API
+
 Backend
 
 Node.js • Express.js • REST APIs
@@ -57,10 +61,6 @@ Node.js • Express.js • REST APIs
 Database
 
 PostgreSQL • MongoDB
-
-State Management
-
-Redux Toolkit • Context API
 
 Tools & Workflow
 
@@ -89,8 +89,7 @@ https://khalil-ahmed-front-end-developer.vercel.app
 📧 Email:
 muhmmadkhalilahmed@gmail.com
 
-
-
+---
 
 💡 Motto
 
