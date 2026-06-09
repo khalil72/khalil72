@@ -1,55 +1,105 @@
-# Hi there! 👋 I'm Khalil Ahmed
+# 👋 Hi, I'm Khalil Ahmed
 
-🌱 **Passionate Front-End Developer** | Specializing in responsive, user-focused applications with modern web technologies.  
-📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/khalilahmed-frontend) | 
-⚡ **Currently**: Front-End Developer at Tectone | Open to remote opportunities in front-end development.
+Front-End Developer | React.js | Next.js | TypeScript
 
----
-
-## 🚀 About Me
-
-With expertise in **HTML, CSS, Bootstrap, Tailwind CSS, MUI, React.js, and Next.js**, I design seamless, responsive web applications that balance visual appeal with high functionality. Currently, I’m delivering impactful projects like **Property051**, **LMS**, and **Quran Noor** at **smartTectone** and **Pin92**, enhancing user experience while achieving business goals.
-
-### 🔍 Open to Remote Opportunities  
-I’m seeking remote positions to apply my front-end expertise and collaborate on projects that prioritize clean code, advanced tech, and outstanding user experiences.
+Frontend Developer with 5+ years of experience building scalable, responsive, and user-focused web applications. Experienced in developing enterprise solutions, Learning Management Systems (LMS), e-commerce platforms, AI chat applications, and real estate systems. Passionate about clean UI/UX, performance optimization, and building high-quality web applications using modern frontend technologies.
 
 ---
 
-## 💼 Key Skills
+🚀 About Me
 
-- **Front-End Technologies**: React.js, Next.js, Tailwind CSS, MUI, Bootstrap
-- **Backend**: Express.js, RESTful API
-- **Languages**: TypeScript, JavaScript
-- **Version Control**: Git, GitHub
-- **Tools**: Redux Toolkit, API integration
-
----
-
-## 💻 Projects
-
-### Property051 & LMS
-- Developed responsive UIs with **Bootstrap** and **CSS3**.
-- Integrated Laravel backend for efficient data management and seamless user interactions.
-
-### Bahria Housing
-- Built with **React JS** and **Redux Toolkit** for state management.
-- API integration for real-time data, with responsive layouts using **MUI**.
-
-### Quran Noor
-- Created a user-centric landing page with **React.js**, integrating APIs for enhanced functionality and seamless user experience.
-- Check out the project: [Quran Noor](https://qurannoor.vercel.app/)
-
-### Custom Web Design
-- Built unique projects like a **YouTube Clone** and an **E-commerce Platform** with **Tailwind CSS** for customized, visually engaging interfaces.
-- Developed a **Weather App** using APIs to display real-time weather information.
-
-### Landing Pages Portfolio
-- Explore additional landing page designs and custom projects on my portfolio: [Portfolio Website](https://khalil-ahmed-front-end-developer.vercel.app/)
+- 💻 Front-End Developer specializing in React.js & Next.js
+- ⚡ Focused on scalable UI architecture and performance optimization
+- 🌱 Continuously improving system design and advanced frontend skills
+- 🤝 Open to Remote Front-End Developer Opportunities
+- 🎯 Strong focus on real-world business applications
 
 ---
 
-## 📈 Let's Collaborate
+💼 Professional Projects
 
-I’m open to questions, collaborations, or job opportunities. Feel free to connect with me on LinkedIn! I’m enthusiastic about tackling new challenges and contributing to exciting projects.
+🛒 Market.pk
+
+Contributed to a modern e-commerce platform featuring responsive UI, product workflows, API integration, and optimized user experience across devices.
+
+💼 Mindzbase
+
+Built scalable business web solutions with reusable components, responsive layouts, and seamless backend integration.
+
+🎓 LMS Platform
+
+Developed learning management features including dashboards, course modules, student workflows, and admin panels.
+
+🤖 AI Chatbot Platform
+
+Created real-time chatbot interfaces with conversation handling, API integration, and responsive UI for seamless user interaction.
+
+🏠 Property051
+
+Built real estate platform features including property listings, dashboards, and dynamic data-driven UI components.
+
+📖 Quran Noor
+
+Developed a responsive Quran learning platform with authentication, API integration, and user-friendly UI/UX.
+
+---
+
+🛠️ Tech Stack
+
+Frontend
+
+React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Material UI
+
+Backend
+
+Node.js • Express.js • REST APIs
+
+Database
+
+PostgreSQL • MongoDB
+
+State Management
+
+Redux Toolkit • Context API
+
+Tools & Workflow
+
+Git • GitHub • Postman • Figma • VS Code • Agile Development
+
+---
+
+📈 GitHub Focus
+
+- Building production-ready frontend applications
+- Improving system design and architecture skills
+- Developing scalable React & Next.js applications
+- Enhancing UI/UX and performance optimization
+- Exploring AI-powered web applications
+
+---
+
+🌐 Portfolio & Contact
+
+💼 LinkedIn:
+https://www.linkedin.com/in/khalilahmed-frontend
+
+🌍 Portfolio:
+https://khalil-ahmed-front-end-developer.vercel.app
+
+📧 Email:
+muhmmadkhalilahmed@gmail.com
+
+---
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=YOUR_USERNAME)
 
 
+💡 Motto
+
+"Clean code, scalable systems, and meaningful user experiences."
